@@ -18,7 +18,7 @@ An introduction to the mathematical basis of computer graphics and graphics algo
 
 ## Course Projects
 1. [A Colorful House](https://github.com/RachelBurke/CS447/blob/master/Projects/Project1/ProjHouse.pdf) (Learning Java Graphics and Color Classes)
-1. [A Chessboard of Squares](https://github.com/RachelBurke/CS447/blob/master/Projects/Project2/Projsquares.pdf) Parametric Equation of a Line)
+1. [A Chessboard of Squares](https://github.com/RachelBurke/CS447/blob/master/Projects/Project2/Projsquares.pdf) (Parametric Equation of a Line)
 1. [Design of Bar Charts](https://github.com/RachelBurke/CS447/blob/master/Projects/Project3/JavaP2BarChart.pdf) (Scaling)
 1. [Robot Range Map](https://github.com/RachelBurke/CS447/blob/master/Projects/Project4/RangeMAPY2019.pdf) (Polygon Clipping)
 1. [Robot Animation](https://github.com/RachelBurke/CS447/blob/master/Projects/Project5/robotproject.pdf)
