@@ -17,7 +17,7 @@ An introduction to the mathematical basis of computer graphics and graphics algo
 1. Hidden Faces, Line Elimination, and more!
 
 ## Course Projects
-1. A Colorful House (Learning Java Graphics and Color Classes)
+1. A Colorful House (Learning Java Graphics and Color Classes) [a relative link](ProjHouse.pdf)
 1. A Chessboard of Squares (Parametric Equation of a Line)
 1. Design of Bar Charts (Scaling)
 1. Robot Range Map (Polygon Clipping)
